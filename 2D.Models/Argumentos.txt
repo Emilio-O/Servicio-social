@@ -1,0 +1,13 @@
+Argumento	Descripcion
+x	Matriz de adyacencia
+Exposed	Dia en que los susceptibles contraen la enfermedad
+Infectious	Dia en que los expuestos se convierten en infecciosos
+Recovered	Dia en que los infecciosos se recuperan
+Subject	Primer individuo infectado desde el dia uno
+Days	Numero de dias 
+R0	Numero reproductivo basico
+SavePlots	Guardar los plots en el directorio
+Sag	Dia en que los recuperados vuelven a ser susceptibles
+NaDeath	Probabilidad de muerte natural
+InDeath	Aumento de probabilidad de muerte por la enfermedad
+Palette	Paleta de colores para realizar los plots
